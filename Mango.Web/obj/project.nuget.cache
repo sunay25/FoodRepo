@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s6g8jCWn4YE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ajit\\Documents\\.NET CORE MICROSERVICE -MVC8\\Learning Solution\\Mango\\Mango.Web\\Mango.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ajit\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
